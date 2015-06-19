@@ -1,0 +1,15 @@
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveEntropy\InteractiveEntropy\bin\Debug\InteractiveEntropy.exe.config
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveEntropy\InteractiveEntropy\bin\Debug\InteractiveEntropy.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveEntropy\InteractiveEntropy\bin\Debug\InteractiveEntropy.pdb
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveEntropy\InteractiveEntropy\obj\Debug\InteractiveEntropy.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveEntropy\InteractiveEntropy\obj\Debug\InteractiveEntropy.pdb
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveEntropy\InteractiveEntropy\obj\Debug\InteractiveInformationcContent.csprojResolveAssemblyReference.cache
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveInfomationContent\InteractiveEntropy\bin\Debug\InteractiveEntropy.exe.config
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveInfomationContent\InteractiveEntropy\obj\Debug\InteractiveEntropy.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveInfomationContent\InteractiveEntropy\obj\Debug\InteractiveEntropy.pdb
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveInfomationContent\InteractiveInformationContent\bin\Debug\InteractiveEntropy.exe.config
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveInfomationContent\InteractiveInformationContent\bin\Debug\InteractiveEntropy.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveInfomationContent\InteractiveInformationContent\bin\Debug\InteractiveEntropy.pdb
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveInfomationContent\InteractiveInformationContent\obj\Debug\InteractiveInformationcContent.csprojResolveAssemblyReference.cache
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveInfomationContent\InteractiveInformationContent\obj\Debug\InteractiveEntropy.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveInfomationContent\InteractiveInformationContent\obj\Debug\InteractiveEntropy.pdb

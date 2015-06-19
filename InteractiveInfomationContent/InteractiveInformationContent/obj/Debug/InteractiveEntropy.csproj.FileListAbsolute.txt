@@ -1,0 +1,6 @@
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveEntropy\InteractiveEntropy\bin\Debug\InteractiveEntropy.exe.config
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveEntropy\InteractiveEntropy\bin\Debug\InteractiveEntropy.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveEntropy\InteractiveEntropy\bin\Debug\InteractiveEntropy.pdb
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveEntropy\InteractiveEntropy\obj\Debug\InteractiveEntropy.csprojResolveAssemblyReference.cache
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveEntropy\InteractiveEntropy\obj\Debug\InteractiveEntropy.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\InteractiveEntropy\InteractiveEntropy\obj\Debug\InteractiveEntropy.pdb
